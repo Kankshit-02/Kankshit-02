@@ -1,4 +1,4 @@
-# First github experience
+# My INTRO
 - 👋 Hi, I’m @Kankshit-02
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
