@@ -1,8 +1,5 @@
 # My INTRO
 - 👋 Hi, I’m @Kankshit-02
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me >> email/twitter
 
 <!---
