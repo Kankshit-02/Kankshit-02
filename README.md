@@ -29,7 +29,3 @@ I'm focused on strengthening my skills in **Go** for backend development, contai
 -   **Portfolio/Website:** [My Portfolio Website](https://kankshit-02.github.io/the-portfolio/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kankshit-02&theme=radical" alt="Kankshit-02's GitHub Streak" />
-</p>
